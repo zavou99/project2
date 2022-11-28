@@ -1,0 +1,20 @@
+h1 {
+    color: blueviolet;
+} 
+
+h2 {
+    color:rgb(165,42,42);
+}
+
+h3 {
+    color:#008080;
+}
+
+h4 {
+    color:hsl(68, 96%, 51%);
+}
+
+div {
+    background-color: rgb(189, 181, 181);
+}
+
