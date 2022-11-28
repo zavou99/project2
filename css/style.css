@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    background-color: rgb(227, 137, 137);
+}
+
+.natural {
+    color: greenyellow;
+    font-size: 0.5cm;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px;
+    border-style: solid;
+
+}
+
+.image {
+    border-radius: 50px;
+    height: 400;
+    width: 450;
+}
+
