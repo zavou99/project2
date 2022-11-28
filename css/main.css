@@ -1,0 +1,46 @@
+p.blue {
+            background-color: rgb(62, 139, 248);
+            color:white;
+            margin: 1.5cm 7.5cm 1.5cm 7.5cm;
+            border-radius: 7px;
+            padding: 33px;
+            font-family:Arial, Helvetica, sans-serif;
+            font-size:15px;
+} 
+.call {
+             padding-left: 0.7cm;
+       
+}
+.sml {
+             padding-left: 0.7cm;
+             font-size: 70%;
+             color: rgb(199, 226, 250);
+             
+}
+
+.button {
+            float:right;
+            margin-right: 1.5cm;
+            background-color: rgb(62, 139, 248);
+            color: white;
+            border-color: white;
+            border-radius: 14%;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 11px;
+            padding: 4px 20px 4px 20px;
+            border-style:solid;
+            border-width:0.4mm;
+}
+.footer {
+            
+            text-align: center;
+            font-family:Arial, sans-serif;
+            font-weight: 300;
+            background-color: rgb(37, 14, 59);
+            color: white;
+            font-size: 11px;
+            padding: 0.8cm 5cm 0.8cm 5cm;
+            margin-left: 3.5cm;
+            margin-right: 3.5cm;
+            
+}
